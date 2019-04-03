@@ -1,0 +1,26 @@
+
+.App {
+  text-align: center;
+  background-color: #040d27;
+  min-height: 100vh;
+  color: white;
+  padding: 20px;
+}
+
+.imgPost {
+  background-color: rgba(252, 252, 252, 0.856);
+  margin: 20px;
+  color: black; 
+}
+
+img {
+  width: 60%;
+}
+
+input{
+  height: 30px;
+  width: 100%;
+  max-width: 280px;
+  background-color: rgba(252, 252, 252, 0.856);
+}
+
